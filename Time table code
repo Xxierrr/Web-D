@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+</head>
+<body>
+<table border="1" HEIGHT="400",WIDTH="500" align="center">
+<tr>
+<th colspan="11">TIME TABLE OF CSE SECTION-B(2024-2025)<br>DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING</th>
+</tr>
+<th rowspan="2" bgcolor="#d3d3d3">DAY/TIME</th>
+<th rowspan="2"bgcolor="#d3d3d3">Sem/Sec</th>
+<th rowspan="2"bgcolor="#d3d3d3">Class Room No.</th>
+<th bgcolor="#d3d3d3">1st Period</th>
+<th bgcolor="#d3d3d3">2st Period</th>
+<th bgcolor="#d3d3d3">3st Period</th>
+<th bgcolor="#d3d3d3">4st Period</th>
+<th bgcolor="#d3d3d3">5st Period</th>
+<th bgcolor="#d3d3d3">6st Period</th>
+<th bgcolor="#d3d3d3">7st Period</th> <th bgcolor="#d3d3d3">8st Period</th>
+</tr>
+<tr>
+<th bgcolor="#d3d3d3">9:00-10:00</th>
+<th bgcolor="#d3d3d3">10:00-11:00</th>
+<th bgcolor="#d3d3d3">11:00-12:00</th>
+<th bgcolor="#d3d3d3">12:00-1:00</th>
+<th bgcolor="#d3d3d3">1:00-2:00</th>
+<th bgcolor="#d3d3d3">2:00-3:00</th>
+<th bgcolor="#d3d3d3">3:00-4:00</th> <th bgcolor="#d3d3d3">4:00-5:00</th>
+</tr>
+<tr>
+<td bgcolor="#FFB6C1">MON</td>
+<td>1-B</td>
+<td bgcolor="grey">E-408</td>
+<td bgcolor="#90EE90">CFE(SKR)-B</td>
+<td colspan="2"align="center" bgcolor="#FFC0CB">D&R LAB(NB/AY/AKR)</td>
+<TD rowspan="5"align="center" bgcolor="#d1f3c5">LUNCH</TD>
+<TD colspan="2"align="center" bgcolor="#FFFDD0">PPS LAB(NG/YP)-E513</TD>
+<td bgcolor="#CF9FFF">EC(SS)-B</td>
+<TD bgcolor="#FFFDD0">PPS(NG)-B</TD>
+</tr>
+<tr>
+<td bgcolor="#FFB6C1">TUE</td>
+<td>1-B</td>
+<td bgcolor="grey">E-408</td>
+<td colspan="2"align="center" bgcolor=" #d3d3d3">COLD LAB(GA+VB) B 203/204</td>
+<td bgcolor="#FFFDD0">PPS(NG)-B</td>
+<TD bgcolor="yellow">COLD(GA)-B</TD>
+<TD bgcolor="#90EE90">CFE(SKR)-B</TD>
+<td bgcolor="#90EE90">CFE(SKR)-TB1</td>
+<TD></TD>
+</tr>
+<tr>
+<td bgcolor="#FFB6C1">WED</td>
+<td>1-B</td>
+<td bgcolor="grey">E-408</td>
+<td bgcolor="#7F525D">D&R(NB)-B</td>
+<td bgcolor="#FFFDD0">PPS(NG)-B</td>
+<td bgcolor="#A9A9A9">DT(DP)-B</td>
+<TD colspan="2"align="center" bgcolor="#ADD8E6">WD LAB(VSH/VP) E 506</TD>
+<td bgcolor="#90EE90">CFE(SKR)-TB2</td>
+<TD></TD>
+</tr>
+<tr>
+<td bgcolor="#FFB6C1">THR</td>
+<td>1-B</td>
+<td bgcolor="grey">E-408</td>
+<td bgcolor="#7F525D">D&R(NB)-B</td>
+<td bgcolor="#90EE90">CFE(SKR)-B</td>
+<td bgcolor="yellow">COLD(GA)-B</td>
+<TD colspan="2"align="center" bgcolor="#FFB6C1">FL</TD>
+<TD colspan="2"align="center" bgcolor="#FFFDD0">PPS LAB(NG/YP)-E513</TD>
+</tr>
+<tr>
+<td bgcolor="#FFB6C1">FRI</td>
+<td>1-B</td>
+<td bgcolor="grey">E-408</td>
+<td bgcolor="#CF9FFF">EC(SS)-B</td>
+<td bgcolor="yellow">COLD(GA)-B</td>
+<td bgcolor="#90EE90">CFE(SKR)-B</td>
+<TD colspan="2" align="center" bgcolor="#FFB6C1">FL</TD>
+<TD bgcolor="red">MENTORIMG-B</TD>
+</tr>
+</table>
+</body>
+</html>
