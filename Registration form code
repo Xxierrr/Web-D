@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+</head>
+<body>
+<form action="Google form for recuritment"><Fieldset style="background-color: rgb(238, 255, 0);">
+<h1 align="center"><i>Registration Form</i></h1>
+<label for="Name"><b>Name :</b><input type="text">
+</label>
+<br>
+<label for="email"><b>Email :</b><input type="email" name="email" id="email" size="30"></label>
+<br>
+<label for="mn"><b>Mobile No. :</b><input type="number" name="mobile_no" maxlength="10" id="mn" size="30" required></label>
+<br>
+<label for="gender"><b>Gender :</b><br>
+<label for="a"><input type="radio" value="Yes" id="a" name="b">Male</label><br>
+<label for="a"><input type="radio" value="Yes" id="a" name="b">Female</label><br>
+<label for="a"><input type="radio" value="Yes" id="a" name="b">Others</label><br>
+<textarea cols="15" rows="1"></textarea><br>
+</label>
+<br>
+<label><b>Date and Time :</b><input type="datetime-local" name="Name" id="Name" size="30"></label>
+<br>
+<label><b>Password :</b><input type="password" name="password" size="30" maxlength="6" required></label>
+<br>
+<label ><b>Upload your photo:-</b><input type="file" name="image " accept="image/*"></label><br>
+<input type="reset">
+<button type="submit">Submit</button>
+</Fieldset>
+</form>
+</body>
+</html>
